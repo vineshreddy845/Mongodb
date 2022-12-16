@@ -1,0 +1,6 @@
+what is mongodb?
+A: mongodb is non-sql database. It is stores data in form of json-format(or) document-form like key-value pair.
+each of these documents consisting of key/value attributes. 
+mongodb has set number of documents is called collections.
+
+
