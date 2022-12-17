@@ -21,12 +21,13 @@ Column                                                         Field
 Table join                                                     Embedded Documents.
 
 
-
+"important": " Id value automatically given by mongodb for our document. where we have primarykey(id) automatically generated for mysql database.
 
 example: Monngodb stores in json-format
 
 
           {
+            "id":1223333333,
             "name":"vinesh",
             "age":2,
             "names":["reddy", "json"]
