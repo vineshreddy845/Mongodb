@@ -3,4 +3,36 @@ A: mongodb is non-sql database. It is stores data in form of json-format(or) doc
 each of these documents consisting of key/value attributes. 
 mongodb has set number of documents is called collections.
 
+          or
+          
+mongodb is a collection of documents.
+mongodb stores data in form of documents(json format like key-value pair).
 
+Realtional(mysql etc)              difference                   mongodb(no=sql)
+
+Database                                                       Database
+
+Table                                                          collection
+
+Row                                                            Document
+
+Column                                                         Field
+
+Table join                                                     Embedded Documents.
+
+
+
+
+example: Monngodb stores in json-format
+
+
+          {
+            "name":"vinesh",
+            "age":2,
+            "names":["reddy", "json"]
+          }
+           
+          
+          
+         
+          
