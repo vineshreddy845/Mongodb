@@ -33,6 +33,8 @@ example: Monngodb stores in json-format
             "names":["reddy", "json"]
           }
            
+           
+       we are connected mongodb database to our application using mongodb altas. we go to mongodb website . create account then we give database name, collection name. With ip address  we connect mongodb to our application. Where mongodb generates mongodb uri: we place it in our application propertities.    
           
           
          
